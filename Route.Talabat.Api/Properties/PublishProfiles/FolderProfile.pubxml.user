@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Route\deploy Api .Net 8</_PublishTargetUrl>
+    <History>True|2024-01-06T14:35:51.1931480Z;True|2024-01-05T18:37:15.7307227+02:00;True|2024-01-05T18:12:32.8781763+02:00;True|2024-01-05T17:37:32.5274515+02:00;True|2024-01-05T17:35:25.1394844+02:00;True|2024-01-05T17:26:35.4878496+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

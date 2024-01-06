@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Route.Talabat.Api.props" />
+</Project>

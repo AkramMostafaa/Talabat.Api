@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "n4SaEKWXCoizMWAa01HKMwni7SVY0DTd5YB/61Z38Bw=",
+  "Source": "Route.Talabat.Api",
+  "BasePath": "_content/Route.Talabat.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Route.Talabat.Api\\wwwroot",
+      "Source": "Route.Talabat.Api",
+      "ContentRoot": "D:\\Route\\Route.Talabat.Api.Solution\\Route.Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Route.Talabat.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Route\\Route.Talabat.Api.Solution\\Route.Talabat.Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Route.Talabat.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Route\\Route.Talabat.Api.Solution\\Route.Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Route.Talabat.Api",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
